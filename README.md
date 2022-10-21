@@ -1,7 +1,7 @@
 # Кукина Анна 122 А
 [OpenProcessing](https://openprocessing.org/user/344112)
 
-db.py - база данных
+[db.py](db.py) - база данных
 
 table.py - таблица умножения в какой-либо сс
 
