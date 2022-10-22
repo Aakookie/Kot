@@ -1,6 +1,8 @@
 # Кукина Анна 122 А
 [OpenProcessing](https://openprocessing.org/user/344112)
 
+aakookie.github.io
+
 папка turt - рисованние фракталов в черепашке
 
 Hemming_code.ipynb - реализация кода Хемминга
