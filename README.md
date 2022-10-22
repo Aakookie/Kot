@@ -5,6 +5,8 @@ aakookie.github.io
 
 https://codepen.io/Aakookie
 
+https://aakookie.wordpress.com/
+
 папка turt - рисованние фракталов в черепашке
 
 Hemming_code.ipynb - реализация кода Хемминга
