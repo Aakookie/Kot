@@ -40,3 +40,7 @@ table.py - создание таблицы умножения в какой-ли
 перевод в 10.py - перевод числа из указанной сс в десятичную сс
 
 перевод из 10.py - перевод числа из 10 сс в указанную
+
+$$ A \Delta B = \left( \neg A \wedge  B \right) \vee \left( A \wedge \neg B \right) $$
+
+![lagrida_latex_editor](https://user-images.githubusercontent.com/114381882/198812934-dc82bd07-b2b6-46c1-a4ce-1ee824afeb66.png)
