@@ -13,6 +13,8 @@ Hemming_code.ipynb - реализация кода Хемминга
 
 [db.py](db.py) - создание базы данных и работа с ней
 
+flask_work.py - работа с модулем Flask
+
 pyth.ipynb - кусочки кода на python, которые я умею писать 
 
 sql_comands.md - sql запросы
