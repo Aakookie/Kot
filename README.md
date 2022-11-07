@@ -49,3 +49,4 @@ $$ A \Delta B = \left( \bar A \wedge  B \right) \vee \left( A \wedge \bar B \rig
 
 ![lagrida_latex_editor (1)](https://user-images.githubusercontent.com/114381882/198813964-ea8fb8ba-3759-49ef-81f8-edc11cf37c64.png)
 
+$\overline{E}^2_{0} = \sqrt \frac{{Fa^2_{0}}}{(x-1)\cdot{x}} + \alpha^2_{1} + \beta^2_{1}$
