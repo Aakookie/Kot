@@ -7,6 +7,13 @@ https://codepen.io/Aakookie
 
 https://aakookie.wordpress.com/
 
+{
+      "app_key": "YOUR_KEY",
+      "app_secret": "YOUR_SECRET",
+      "callback_url": "YOUR_CALLBACK_URL",
+      "auth_url": "https://www.dropbox.com/oauth2/authorize"
+    }
+    
 ```mermaid
 
 flowchart LR
