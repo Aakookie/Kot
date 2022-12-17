@@ -6,14 +6,31 @@ aakookie.github.io
 https://codepen.io/Aakookie
 
 https://aakookie.wordpress.com/
-
-{
-      "app_key": "YOUR_KEY",
-      "app_secret": "YOUR_SECRET",
-      "callback_url": "YOUR_CALLBACK_URL",
-      "auth_url": "https://www.dropbox.com/oauth2/authorize"
-    }
     
+| Номер задачи | Статус |
+| ------ | ------ |
+| 1 | [] |
+| 2 | [] |
+| 3 | []|
+| 4 | [] |
+| 5 | [] |
+| 6 | [] |
+| 7 | [] |
+| 8 | [] |
+| 9 | [] |
+| 10 | [] |
+| 11 | [] |
+| 12 | [] |
+| 13 | [] |
+| 14 | [] |
+| 15 | [] |
+| 16 | [] |
+| 17 | [] |
+| 18 | [] |
+| 19 | [] |
+| 20 | [] |
+| 21 | [] |
+
 ```mermaid
 
 flowchart LR
