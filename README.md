@@ -80,6 +80,8 @@ victorina.py - викторина с английскими словами
 
 перевод + таблица.xlsx - перевод из десятичной сс в любую другую + таблица умножения в какой-либо сс
 
+слайды.py - работа с видео и изображениями в python
+
 20 Закон алгебры логики:
 
 $$ A \Delta B = \left( \bar A \wedge  B \right) \vee \left( A \wedge \bar B \right) $$
@@ -90,4 +92,4 @@ $\overline{E}^2_{0} = \sqrt \frac{{Fa^2_{0}}}{(x-1)\cdot{x}} + \alpha^2_{1} + \b
 
 ![lagrida_latex_editor (14)](https://user-images.githubusercontent.com/114381882/202976246-5341fd45-5958-4573-9aa8-4d157efdc88b.png)
 
-слайды.py - работа с видео и изображениями в python
+
