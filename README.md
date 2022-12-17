@@ -7,7 +7,7 @@ https://codepen.io/Aakookie
 
 https://aakookie.wordpress.com/
     
-| Номер задачи | Статус |
+| Номер задачи ЕГЭ | Статус |
 | ------ | ------ |
 | 1 |  |
 | 2 |  |
