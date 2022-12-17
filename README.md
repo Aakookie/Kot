@@ -97,5 +97,5 @@ $\overline{E}^2_{0} = \sqrt \frac{{Fa^2_{0}}}{(x-1)\cdot{x}} + \alpha^2_{1} + \b
 ![lagrida_latex_editor (14)](https://user-images.githubusercontent.com/114381882/202976246-5341fd45-5958-4573-9aa8-4d157efdc88b.png)
 
 ![image](https://user-images.githubusercontent.com/114381882/208241780-a4eaf0c1-f48f-4e7b-85ad-da4bce077ae6.png)
-
+![image](https://user-images.githubusercontent.com/114381882/208242599-1dc0d296-fd21-42ea-88f8-d505b4dff2bc.png)
 
