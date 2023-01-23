@@ -85,7 +85,15 @@ for i in spisok:
 
 ![image](https://user-images.githubusercontent.com/114381882/208363351-201fc2d0-ddf8-4593-bad8-b6acdbff9097.png)
 
-
+14. 
+```python
+alph='0123456789abcde'
+for x in alph:
+    f=int(f'123{x}5',15)+int(f'1{x}233',15)
+    if  f%14 ==0:
+        print(f//14)
+        break
+```  
 
 19, 20, 21 - 1) Определить точку входа (условие выигрыша, то сколько очков нужно набрать)
 
