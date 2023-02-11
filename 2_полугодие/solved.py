@@ -20,6 +20,23 @@ for N in range(516):
     if int(b, 2) > 516:
         print(N)
         break
+
+#16
+sys.setrecurtionlimit()
+def f(n):
+    if n==1:
+        return(1)
+    else:
+        return(n*f(n-1)):
+    print(f(2023)/f(2020))
+    
+it1 = it2 = 1
+for x1 in range(1, 2024):
+    it1 = it1*x1
+for x2 in range(1, 2021):
+    it2 = it2*x2
+print(it1/it2)
+
 #23
 def f(x, y):
     if x > y or x == 17:
