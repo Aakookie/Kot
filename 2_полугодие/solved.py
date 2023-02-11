@@ -38,7 +38,9 @@ for x2 in range(1, 2021):
 print(it1/it2)
 
 #17
-
+x = [int(i) for i in f] # f - импортированный файл
+a = []
+b = [x for x in b if]
 
 #23
 def f(x, y):
