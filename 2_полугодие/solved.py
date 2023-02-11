@@ -37,6 +37,9 @@ for x2 in range(1, 2021):
     it2 = it2*x2
 print(it1/it2)
 
+#17
+
+
 #23
 def f(x, y):
     if x > y or x == 17:
