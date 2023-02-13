@@ -38,9 +38,19 @@ for x2 in range(1, 2021):
 print(it1/it2)
 
 #17
-x = [int(i) for i in f] # f - импортированный файл
-a = []
-b = [x for x in b if]
+count = 0
+maxsum = 0
+a = [int(i) for i in f] # f - импортированный файл
+x = [i for i in a if i%17 == 0]
+maxX = max(x)
+minX = min(x)
+for i in range(len(a)-1):
+    if a[i]%17 == 0 or a[i + 1]%17 == 0:
+        count += 1
+        sum = a[i] + a[i + 1]
+        if sum > maxsum:
+            maxsum = sum
+print(count, maxsum)
 
 #23
 def f(x, y):
