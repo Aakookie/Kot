@@ -129,3 +129,25 @@ with open('26.txt') as f:
             mini=s[i]
             k+=1
 print(k,mini)
+
+#27
+with open('27-A.txt') as f:
+    m=[int(x) for x in f]
+    m.pop(0)
+#print(m)
+l_half = len(m)//2 
+length = len(m)
+m = m+m
+s = []
+for i in range(length):
+    a = m[i:i+length]
+    #print(a)
+    summ = 0
+    for j in range(length):
+        ind = length-j
+        if j <= l_half:
+            summ += a[j]* j
+        else:
+            summ += a[j]*ind
+    s.append(summ)
+print(s.index(min(s))+1)
