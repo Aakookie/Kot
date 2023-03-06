@@ -100,3 +100,15 @@ s.replace('A','G') - одна фигня в строке заменятся на
 #25
 
 from operator import itemgetter
+
+sorted(itogo, key=itemgetter(1)) -  сортировка по указываемому номеру элемента
+
+#26
+
+s=sorted(s[1:],reverse=True) - сортировка с конца
+
+#27
+
+min_s = min(s,min_s) - выводит минимальное значение
+
+round() - округление
