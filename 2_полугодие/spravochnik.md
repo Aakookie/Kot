@@ -68,3 +68,35 @@ if all(num%delit!=0 for delit in range(2,num)) - если се условия п
 15**4 - возведение левого числа в степень правого
 
 sum10//14 - целочисленное деление
+
+#17
+
+with open('17.txt') as f: - импорт элементов из файла
+
+nums[i] - вывод элемента по его индексу
+
+abs() - модуль
+
+#23
+
+from itertools import product - импорт метода из библиотеки
+
+nums=product('12',repeat=i) - генерация объекта
+
+continue - переход к следующшему шагу в for
+
+return count - возвращает значение
+
+pass - заглушка
+
+#24
+
+with open('24.txt') as f:
+
+   let=f.readline() - чтение из файла
+   
+s.replace('A','G') - одна фигня в строке заменятся на другую 
+
+#25
+
+from operator import itemgetter
